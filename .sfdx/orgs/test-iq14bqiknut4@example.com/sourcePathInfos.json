@@ -2,14 +2,14 @@
     [
         "/Users/jatinderpaul/DXProjects/my_sfdx_project/geolocation/force-app",
         {
-            "state": "n",
             "sourcePath": "/Users/jatinderpaul/DXProjects/my_sfdx_project/geolocation/force-app",
             "isDirectory": true,
-            "isMetadataFile": false,
             "size": 96,
             "modifiedTime": 1526843934012,
             "changeTime": 1526843934012,
             "contentHash": "b28b7af69320201d1cf206ebf28373980add1451",
+            "isMetadataFile": false,
+            "state": "n",
             "isWorkspace": false,
             "isArtifactRoot": true
         }
@@ -17,14 +17,14 @@
     [
         "/Users/jatinderpaul/DXProjects/my_sfdx_project/geolocation/force-app/main",
         {
-            "state": "n",
             "sourcePath": "/Users/jatinderpaul/DXProjects/my_sfdx_project/geolocation/force-app/main",
             "isDirectory": true,
-            "isMetadataFile": false,
             "size": 96,
             "modifiedTime": 1526843934012,
             "changeTime": 1526843934012,
             "contentHash": "7505d64a54e061b7acd54ccd58b49dc43500b635",
+            "isMetadataFile": false,
+            "state": "n",
             "isWorkspace": false,
             "isArtifactRoot": false
         }
@@ -32,27 +32,27 @@
     [
         "/Users/jatinderpaul/DXProjects/my_sfdx_project/geolocation/force-app/main/default",
         {
-            "state": "u",
             "sourcePath": "/Users/jatinderpaul/DXProjects/my_sfdx_project/geolocation/force-app/main/default",
             "isDirectory": true,
-            "isMetadataFile": false,
             "size": 224,
             "modifiedTime": 1526844388841,
             "changeTime": 1526844388841,
-            "contentHash": "b2e413674f98340eeb6ab60f83200a9c2d0faefb"
+            "contentHash": "b2e413674f98340eeb6ab60f83200a9c2d0faefb",
+            "isMetadataFile": false,
+            "state": "u"
         }
     ],
     [
         "/Users/jatinderpaul/DXProjects/my_sfdx_project/geolocation/force-app/main/default/aura",
         {
-            "state": "n",
             "sourcePath": "/Users/jatinderpaul/DXProjects/my_sfdx_project/geolocation/force-app/main/default/aura",
             "isDirectory": true,
-            "isMetadataFile": false,
             "size": 64,
             "modifiedTime": 1526843934012,
             "changeTime": 1526843934012,
             "contentHash": "da39a3ee5e6b4b0d3255bfef95601890afd80709",
+            "isMetadataFile": false,
+            "state": "n",
             "isWorkspace": false,
             "isArtifactRoot": false
         }
@@ -60,14 +60,14 @@
     [
         "/Users/jatinderpaul/DXProjects/my_sfdx_project/geolocation",
         {
-            "state": "n",
             "sourcePath": "/Users/jatinderpaul/DXProjects/my_sfdx_project/geolocation",
             "isDirectory": true,
-            "isMetadataFile": false,
             "size": 256,
             "modifiedTime": 1526844099105,
             "changeTime": 1526844099105,
             "contentHash": "07da07834d8f50a1018cf646c911906296572a7c",
+            "isMetadataFile": false,
+            "state": "n",
             "isWorkspace": true,
             "isArtifactRoot": false
         }
@@ -75,14 +75,14 @@
     [
         "/Users/jatinderpaul/DXProjects/my_sfdx_project/geolocation/force-app/main/default/objects/Account/fields/Location__c.field-meta.xml",
         {
-            "state": "u",
             "sourcePath": "/Users/jatinderpaul/DXProjects/my_sfdx_project/geolocation/force-app/main/default/objects/Account/fields/Location__c.field-meta.xml",
             "isDirectory": false,
-            "isMetadataFile": true,
             "size": 403,
             "modifiedTime": 1526844388779,
             "changeTime": 1526844388779,
-            "contentHash": "6b6949a234f89bf80a2a4bac6f7d790775dbd596"
+            "contentHash": "6b6949a234f89bf80a2a4bac6f7d790775dbd596",
+            "isMetadataFile": true,
+            "state": "u"
         }
     ],
     [
@@ -92,10 +92,10 @@
             "sourcePath": "/Users/jatinderpaul/DXProjects/my_sfdx_project/geolocation/force-app/main/default/layouts/Account-Account (Sales) Layout.layout-meta.xml",
             "isDirectory": false,
             "isMetadataFile": true,
-            "size": 9708,
-            "modifiedTime": 1526844388787,
-            "changeTime": 1526844388787,
-            "contentHash": "a6fc0c32caef3a798eea4f544a2000fc429aeb77"
+            "size": 9859,
+            "modifiedTime": 1526845054793,
+            "changeTime": 1526845054793,
+            "contentHash": "acfc1ea2a8bd99397b9ecc31956538d58d4514f3"
         }
     ],
     [
@@ -105,10 +105,10 @@
             "sourcePath": "/Users/jatinderpaul/DXProjects/my_sfdx_project/geolocation/force-app/main/default/layouts/Account-Account (Support) Layout.layout-meta.xml",
             "isDirectory": false,
             "isMetadataFile": true,
-            "size": 9756,
-            "modifiedTime": 1526844388795,
-            "changeTime": 1526844388795,
-            "contentHash": "94142c6ea19df359d8f2398924816a5498afc02e"
+            "size": 9907,
+            "modifiedTime": 1526845054811,
+            "changeTime": 1526845054811,
+            "contentHash": "4f6d47306de8363467f49027f048ba4f13c57df4"
         }
     ],
     [
@@ -118,10 +118,10 @@
             "sourcePath": "/Users/jatinderpaul/DXProjects/my_sfdx_project/geolocation/force-app/main/default/layouts/Account-Account Layout.layout-meta.xml",
             "isDirectory": false,
             "isMetadataFile": true,
-            "size": 9708,
-            "modifiedTime": 1526844388800,
-            "changeTime": 1526844388800,
-            "contentHash": "e85a88e4c79b0e49351c7fe72875a0a96c157ce7"
+            "size": 9859,
+            "modifiedTime": 1526845054828,
+            "changeTime": 1526845054828,
+            "contentHash": "12f398dbec65eb8c6e50f2632ba1f4a22398355e"
         }
     ],
     [
@@ -131,10 +131,10 @@
             "sourcePath": "/Users/jatinderpaul/DXProjects/my_sfdx_project/geolocation/force-app/main/default/layouts/Account-Account (Marketing) Layout.layout-meta.xml",
             "isDirectory": false,
             "isMetadataFile": true,
-            "size": 9756,
-            "modifiedTime": 1526844388806,
-            "changeTime": 1526844388806,
-            "contentHash": "0ac2903745d3402a3279ba45b246c5286914d16d"
+            "size": 9907,
+            "modifiedTime": 1526845054845,
+            "changeTime": 1526845054845,
+            "contentHash": "6f2ca8ade41dd1a2b5be1a0884e77db198203515"
         }
     ],
     [
@@ -144,10 +144,10 @@
             "sourcePath": "/Users/jatinderpaul/DXProjects/my_sfdx_project/geolocation/force-app/main/default/profiles/Admin.profile-meta.xml",
             "isDirectory": false,
             "isMetadataFile": true,
-            "size": 17636,
-            "modifiedTime": 1526844388820,
-            "changeTime": 1526844388820,
-            "contentHash": "0c54835d29f525d17b858318dcf83e601a00ce0f"
+            "size": 17649,
+            "modifiedTime": 1526845054865,
+            "changeTime": 1526845054865,
+            "contentHash": "f5e015f74c413a1a4b827da7e7ddffcd08ff9d5e"
         }
     ],
     [
@@ -157,10 +157,10 @@
             "sourcePath": "/Users/jatinderpaul/DXProjects/my_sfdx_project/geolocation/force-app/main/default/profiles/Custom: Sales Profile.profile-meta.xml",
             "isDirectory": false,
             "isMetadataFile": true,
-            "size": 4592,
-            "modifiedTime": 1526844388828,
-            "changeTime": 1526844388828,
-            "contentHash": "99644587791080a44c9210de9fa1f6404f1c8884"
+            "size": 4605,
+            "modifiedTime": 1526845054869,
+            "changeTime": 1526845054869,
+            "contentHash": "9c5df3c8e77ec71d3dfd78810fb7915099784fbc"
         }
     ],
     [
@@ -170,10 +170,10 @@
             "sourcePath": "/Users/jatinderpaul/DXProjects/my_sfdx_project/geolocation/force-app/main/default/profiles/Custom: Support Profile.profile-meta.xml",
             "isDirectory": false,
             "isMetadataFile": true,
-            "size": 4932,
-            "modifiedTime": 1526844388833,
-            "changeTime": 1526844388833,
-            "contentHash": "d7ff65dcb3dec78687d5631dd053c7c4ca251104"
+            "size": 4945,
+            "modifiedTime": 1526845054878,
+            "changeTime": 1526845054878,
+            "contentHash": "3e0846b8a01dca0282611e54e42016c484505870"
         }
     ],
     [
@@ -183,23 +183,23 @@
             "sourcePath": "/Users/jatinderpaul/DXProjects/my_sfdx_project/geolocation/force-app/main/default/profiles/Custom: Marketing Profile.profile-meta.xml",
             "isDirectory": false,
             "isMetadataFile": true,
-            "size": 4596,
-            "modifiedTime": 1526844388839,
-            "changeTime": 1526844388839,
-            "contentHash": "7c85f9442350b569799e282adf89f1badf052edc"
+            "size": 4609,
+            "modifiedTime": 1526845054883,
+            "changeTime": 1526845054883,
+            "contentHash": "e4b1616dc5390403e43dbace505ccdf2f55058ee"
         }
     ],
     [
         "/Users/jatinderpaul/DXProjects/my_sfdx_project/geolocation/force-app/main/default/permissionsets/Geolocation.permissionset-meta.xml",
         {
-            "state": "u",
             "sourcePath": "/Users/jatinderpaul/DXProjects/my_sfdx_project/geolocation/force-app/main/default/permissionsets/Geolocation.permissionset-meta.xml",
             "isDirectory": false,
-            "isMetadataFile": true,
             "size": 702,
             "modifiedTime": 1526844388842,
             "changeTime": 1526844388842,
-            "contentHash": "78c31b6745db7bb8f1b53476b95e66ccfb879383"
+            "contentHash": "78c31b6745db7bb8f1b53476b95e66ccfb879383",
+            "isMetadataFile": true,
+            "state": "u"
         }
     ],
     [
@@ -209,75 +209,88 @@
             "sourcePath": "/Users/jatinderpaul/DXProjects/my_sfdx_project/geolocation/force-app/main/default/objects/Account/fields",
             "isDirectory": true,
             "isMetadataFile": false,
-            "size": 96,
-            "modifiedTime": 1526844388779,
-            "changeTime": 1526844388779,
-            "contentHash": "64560c84ade9015d36bd21e8436a4d2662babedc"
+            "size": 128,
+            "modifiedTime": 1526845054778,
+            "changeTime": 1526845054778,
+            "contentHash": "8573e9fefa6050351a0b22e0937b8da51b9f4f68"
         }
     ],
     [
         "/Users/jatinderpaul/DXProjects/my_sfdx_project/geolocation/force-app/main/default/objects/Account",
         {
-            "state": "u",
             "sourcePath": "/Users/jatinderpaul/DXProjects/my_sfdx_project/geolocation/force-app/main/default/objects/Account",
             "isDirectory": true,
-            "isMetadataFile": false,
             "size": 96,
             "modifiedTime": 1526844388778,
             "changeTime": 1526844388778,
-            "contentHash": "70f132fe13e692866a539996a6b9a05b46076a07"
+            "contentHash": "70f132fe13e692866a539996a6b9a05b46076a07",
+            "isMetadataFile": false,
+            "state": "u"
         }
     ],
     [
         "/Users/jatinderpaul/DXProjects/my_sfdx_project/geolocation/force-app/main/default/objects",
         {
-            "state": "u",
             "sourcePath": "/Users/jatinderpaul/DXProjects/my_sfdx_project/geolocation/force-app/main/default/objects",
             "isDirectory": true,
-            "isMetadataFile": false,
             "size": 96,
             "modifiedTime": 1526844388778,
             "changeTime": 1526844388778,
-            "contentHash": "85dfa32c97d8618d1bea083609e2c8a29845abe5"
+            "contentHash": "85dfa32c97d8618d1bea083609e2c8a29845abe5",
+            "isMetadataFile": false,
+            "state": "u"
         }
     ],
     [
         "/Users/jatinderpaul/DXProjects/my_sfdx_project/geolocation/force-app/main/default/layouts",
         {
-            "state": "u",
             "sourcePath": "/Users/jatinderpaul/DXProjects/my_sfdx_project/geolocation/force-app/main/default/layouts",
             "isDirectory": true,
-            "isMetadataFile": false,
             "size": 192,
             "modifiedTime": 1526844388806,
             "changeTime": 1526844388806,
-            "contentHash": "be43ec218fd4b2701663c648b5cbe93e57e32129"
+            "contentHash": "be43ec218fd4b2701663c648b5cbe93e57e32129",
+            "isMetadataFile": false,
+            "state": "u"
         }
     ],
     [
         "/Users/jatinderpaul/DXProjects/my_sfdx_project/geolocation/force-app/main/default/profiles",
         {
-            "state": "u",
             "sourcePath": "/Users/jatinderpaul/DXProjects/my_sfdx_project/geolocation/force-app/main/default/profiles",
             "isDirectory": true,
-            "isMetadataFile": false,
             "size": 192,
             "modifiedTime": 1526844388839,
             "changeTime": 1526844388839,
-            "contentHash": "15d8b68bef3142dc9da80c94e822e4e0e39b6ecb"
+            "contentHash": "15d8b68bef3142dc9da80c94e822e4e0e39b6ecb",
+            "isMetadataFile": false,
+            "state": "u"
         }
     ],
     [
         "/Users/jatinderpaul/DXProjects/my_sfdx_project/geolocation/force-app/main/default/permissionsets",
         {
-            "state": "u",
             "sourcePath": "/Users/jatinderpaul/DXProjects/my_sfdx_project/geolocation/force-app/main/default/permissionsets",
             "isDirectory": true,
-            "isMetadataFile": false,
             "size": 96,
             "modifiedTime": 1526844388842,
             "changeTime": 1526844388842,
-            "contentHash": "3997b26d8a7f6692d5d741c4ac6d7985687d23ba"
+            "contentHash": "3997b26d8a7f6692d5d741c4ac6d7985687d23ba",
+            "isMetadataFile": false,
+            "state": "u"
+        }
+    ],
+    [
+        "/Users/jatinderpaul/DXProjects/my_sfdx_project/geolocation/force-app/main/default/objects/Account/fields/Top_Strategic_Account__c.field-meta.xml",
+        {
+            "state": "u",
+            "sourcePath": "/Users/jatinderpaul/DXProjects/my_sfdx_project/geolocation/force-app/main/default/objects/Account/fields/Top_Strategic_Account__c.field-meta.xml",
+            "isDirectory": false,
+            "isMetadataFile": true,
+            "size": 1007,
+            "modifiedTime": 1526845054778,
+            "changeTime": 1526845054778,
+            "contentHash": "9c93afb065530413a042b105f04f5714f17273f8"
         }
     ]
 ]

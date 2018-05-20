@@ -3,7 +3,7 @@
     <custom>false</custom>
     <fieldPermissions>
         <editable>true</editable>
-        <field>Account.Location__c</field>
+        <field>Account.Top_Strategic_Account__c</field>
         <readable>true</readable>
     </fieldPermissions>
     <layoutAssignments>
